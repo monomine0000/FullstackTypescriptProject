@@ -41,3 +41,5 @@ Then view the local server at:
 ## Contact
 
 For more information please contact kmturley
+
+Contact me for support
